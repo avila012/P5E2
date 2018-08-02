@@ -1,0 +1,5 @@
+C:\C#\Practica 5\ClaseCliente\ClaseCliente\bin\Debug\ClaseCliente.exe
+C:\C#\Practica 5\ClaseCliente\ClaseCliente\bin\Debug\ClaseCliente.pdb
+C:\C#\Practica 5\ClaseCliente\ClaseCliente\obj\Debug\ClaseCliente.csprojResolveAssemblyReference.cache
+C:\C#\Practica 5\ClaseCliente\ClaseCliente\obj\Debug\ClaseCliente.exe
+C:\C#\Practica 5\ClaseCliente\ClaseCliente\obj\Debug\ClaseCliente.pdb
